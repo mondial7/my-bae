@@ -5,6 +5,8 @@ Something about my dev stack
 
 clone this 👾
 ```
+git clone https://github.com/mondial7/my-bae.git
+cd my-bae
 npm install
 ```
 
