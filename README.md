@@ -1,9 +1,12 @@
 # My Bae
 Something about my dev stack
 
-... :construction: ...
+## Install
 
-install: clone... npm install...
+clone this 👾
+```
+npm install
+```
 
 ## Developing
 
