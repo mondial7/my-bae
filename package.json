@@ -20,15 +20,15 @@
     "eslint-plugin-cross-browser-compatibility-check": "0.0.0",
     "jsdom": "11.6.1",
     "jsdom-global": "3.0.2",
-    "mocha": "^5.0.0",
+    "mocha": "^5.0.2",
     "rollup": "^0.50.1",
     "rollup-plugin-babel": "^3.0.2",
     "rollup-plugin-eslint": "^4.0.0",
     "rollup-plugin-filesize": "^1.5.0",
     "rollup-plugin-license": "^0.5.0",
-    "rollup-plugin-node-resolve": "^3.0.0",
+    "rollup-plugin-node-resolve": "^3.0.3",
     "rollup-plugin-uglify": "^2.0.1",
-    "uglify-es": "^3.1.9"
+    "uglify-es": "^3.3.10"
   },
   "scripts": {
     "test": "BABEL_ENV=test mocha --ui tdd --require babel-register",
